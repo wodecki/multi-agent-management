@@ -1,0 +1,17 @@
+langgraph==0.2.52
+langchain-core==0.3.19
+langgraph-checkpoint==2.0.5
+langgraph-sdk==0.1.36
+langsmith==0.1.143
+requests-toolbelt==1.0.0
+langchain-openai 
+PyYAML>=5.3
+jsonpatch==1.33
+pydantic>=2.7.4,<3.0.0
+tenacity>=8.1.0,<10.0.0
+typing-extensions>=4.7
+msgpack>=1.1.0,<2.0.0
+httpx>=0.25.2
+httpx-sse>=0.4.0
+orjson>=3.10.1
+python-dotenv

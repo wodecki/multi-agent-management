@@ -1,0 +1,132 @@
+{
+    "Ludzie": {
+        "Role i współpraca": {
+            "Jak w proces rozwoju produktu jest zaangażowany zespół międzyfunkcyjny?": "Zespół międzyfunkcyjny jest w pełni zintegrowany i intensywnie zaangażowany na wszystkich etapach rozwoju produktu.",
+            "Jak wszyscy interesariusze są zaangażowani w zespół projektowy nawet gdy są rozproszeni globalnie?": "Interesariusze nie są zaangażowani w zespół projektowy.",
+            "Jak role i obowiązki każdej osoby są jasno określone?": "Role i obowiązki są w pełni jasno określone, dobrze zrozumiane i przestrzegane przez wszystkich członków zespołu.",
+            "Jak w projekcie zapewniona jest wysoka elastyczność w wykonywaniu zadań?": "Elastyczność w wykonywaniu zadań jest wysoka i wspiera efektywność zespołu na wszystkich etapach projektu.",
+            "Jakie jest zaangażowanie ogólnego odpowiedzialnego kierownika produktu z technicznym zapleczem?": "Kierownicy produktu raczej nie mają technicznego zaplecza.",
+            "Jak klient jest w pełni zaangażowany w rozwój produktu?": "Klient jest czasami angażowany w rozwój produktu, ale nie na każdym etapie.",
+            "Jak doświadczoni projektanci są zaangażowani od najwcześniejszych etapów projektu?": "Doświadczeni projektanci są angażowani na wczesnych etapach w większości projektów."
+        },
+        "Szkolenie": {
+            "Jakie formalne programy wspierają rozwój umiejętności interdyscyplinarnych?": "Programy są szeroko dostępne i regularnie stosowane.",
+            "Jak oferowane są indywidualne korepetycje w ramach rozwoju umiejętności?": "Korepetycje są dobrze rozwinięte, ale nie zawsze dostępne dla wszystkich pracowników.",
+            "Jak używane są KPI do oceny wyników szkolenia?": "KPI są używane kompleksowo do oceny wszystkich aspektów szkolenia i regularnie aktualizowane."
+        }
+    },
+    "Proces": {
+        "Działania i przepływ": {
+            "W jakim stopniu formalny model rozwoju produktu jest przestrzegany i dokumentowany?": "Model istnieje, ale jest rzadko przestrzegany i dokumentowany.",
+            "W jaki sposób proces rozwoju produktu promuje współpracę?": "Współpraca obejmuje większość etapów, ale nie jest systematyczna.",
+            "Jak skutecznie stosowany jest złożony zestaw KPI do pomiaru wydajności rozwoju produktu?": "Złożony zestaw KPI jest stosowany we wszystkich projektach i fazach rozwoju produktu.",
+            "Na jakim poziomie frontloading jest wdrażany w procesie rozwoju produktu?": "Frontloading jest wdrażany na bardzo wysokim poziomie we wszystkich projektach.",
+            "W jakim stopniu podejmowane są inicjatywy ciągłego doskonalenia?": "Inicjatywy ciągłego doskonalenia są podejmowane, ale ich wpływ jest ograniczony.",
+            "Jak efektywnie projektowane są różne rozwiązania a gorsze rozwiązania eliminowane w miarę pojawiania się nowych informacji?": "Różne rozwiązania nie są projektowane, proces jest sztywny.",
+            "Na ile proces rozwoju produktu koncentruje się na wartości dla klienta?": "Proces koncentruje się na wartości dla klienta, ale nie zawsze.",
+            "W jaki sposób wdrażany jest proces analizy konkurencji (inżynieria odwrotna)?": "Proces analizy konkurencji jest skutecznie wdrażany we wszystkich projektach."
+        },
+        "Podejmowanie decyzji": {
+            "W jaki sposób uwzględniany jest proces projektowania i industrializacji części i modułów?": "Proces projektowania i industrializacji jest w pełni uwzględniany i zintegrowany na każdym etapie rozwoju produktu.",
+            "W jakim stopniu uwzględniany jest proces produkcji komponentów i półproduktów?": "Proces produkcji komponentów i półproduktów nie jest uwzględniany.",
+            "Na ile proces montażu komponentów jest brany pod uwagę w rozwoju produktu?": "Proces montażu komponentów jest brany pod uwagę, ale nie zawsze zoptymalizowany.",
+            "Jakie znaczenie ma proces testowania i eksperymentowania w rozwoju produktu?": "Proces testowania i eksperymentowania jest uwzględniany w większości przypadków, ale jego znaczenie jest ograniczone.",
+            "Na jakim poziomie uwzględniany jest proces pakowania i magazynowania?": "Proces pakowania i magazynowania jest uwzględniany i zoptymalizowany w większości projektów.",
+            "W jaki sposób uwzględniany jest proces dostawy i dystrybucji?": "Proces dostawy i dystrybucji jest sporadycznie uwzględniany.",
+            "Na ile proces użytkowania przez klienta jest uwzględniany w rozwoju produktu?": "Proces użytkowania przez klienta jest brany pod uwagę, ale nie zawsze monitorowany.",
+            "W jaki sposób uwzględniany jest proces konserwacji i usług posprzedażowych?": "Proces konserwacji i usług posprzedażowych jest sporadycznie uwzględniany.",
+            "Na jakim poziomie uwzględniany jest proces demontażu, recyklingu i utylizacji?": "Proces demontażu, recyklingu i utylizacji nie jest uwzględniany.",
+            "Na ile uwzględniany jest proces kontroli ponownego użycia, aktualizacji i odnowienia?": "Proces kontroli ponownego użycia, aktualizacji i odnowienia jest w pełni uwzględniany i zintegrowany z rozwojem produktu.",
+            "Jakie znaczenie ma końcowy koszt produktu / cena produktu w procesie decyzyjnym?": "Końcowy koszt produktu jest uwzględniany, ale w ograniczonym zakresie.",
+            "W jakim stopniu koszty rozwoju / ROI są uwzględniane w procesie decyzyjnym?": "Koszty rozwoju / ROI są sporadycznie brane pod uwagę.",
+            "Jakie znaczenie mają koszty użytkowania i cyklu życia, takie jak konserwacja, usługi, recykling, utylizacja?": "Koszty użytkowania i",
+            "Jak w procesie decyzyjnym uwzględniany jest czas wprowadzenia na rynek (TTM) i termin dostawy?": "TTM i termin dostawy są uwzględniane, ale tylko w niektórych projektach.",
+            "Jak liczba różnych produktów wpływa na decyzje projektowe?": "Liczba różnych produktów jest brana pod uwagę w ograniczonym zakresie.",
+            "W jakim stopniu poziom dostosowania produktu jest uwzględniany?": "Poziom dostosowania produktu nie jest uwzględniany.",
+            "Jak uwzględniany jest poziom innowacyjności w podejmowanych decyzjach?": "Poziom innowacyjności jest uwzględniany, ale nie systematycznie.",
+            "W jaki sposób wizerunek marki wpływa na podejmowane decyzje?": "Wizerunek marki jest priorytetem w każdej decyzji projektowej i jest ściśle monitorowany.",
+            "Jakie znaczenie ma wydajność funkcjonalna (np. produktywność, prędkość, dokładność, łatwość konserwacji)?": "Wydajność funkcjonalna jest uwzględniana, ale nie zawsze w pełnym zakresie.",
+            "Jak uwzględniana jest wydajność jakościowa (np. solidność, niezawodność, trwałość) w decyzjach projektowych?": "Wydajność jakościowa jest sporadycznie uwzględniana.",
+            "W jaki sposób zgodność z przepisami i normami wpływa na decyzje?": "Zgodność z przepisami jest uwzględniana sporadycznie.",
+            "Jakie inne czynniki, takie jak zrównoważony rozwój, estetyka czy aspekty społeczne są brane pod uwagę?": "Inne czynniki, takie jak zrównoważony rozwój, są czasami uwzględniane, ale nie systematycznie."
+        }
+    },
+    "Zarządzanie wiedzą (KM)": {
+        "Procesy KM": {
+            "Jak poprzednia wiedza jest odzyskiwana w trakcie projektu koncepcyjnego?": "Wiedza z poprzednich projektów jest w pełni zintegrowana z każdym etapem koncepcyjnym i jest priorytetem.",
+            "Jak poprzednia wiedza jest odzyskiwana podczas studium wykonalności?": "Wiedza z poprzednich projektów jest regularnie wykorzystywana podczas studium wykonalności, ale nie zawsze we wszystkich przypadkach.",
+            "Jak poprzednia wiedza jest odzyskiwana w trakcie szczegółowego projektowania produktu i jego komponentów?": "Wiedza z poprzednich projektów jest w pełni odzyskiwana i wykorzystywana podczas szczegółowego projektowania.",
+            "Jak poprzednia wiedza jest wykorzystywana podczas testowania prototypowania i eksperymentowania?": "Wiedza z poprzednich projektów jest regularnie uwzględniana podczas testowania prototypowania i eksperymentowania, ale nie zawsze.",
+            "Jak poprzednia wiedza jest uwzględniana podczas końcowej weryfikacji projektu?": "Wiedza z poprzednich projektów jest priorytetem w procesie końcowej weryfikacji projektu.",
+            "Jak formalny plan zarządzania wiedzą wspiera proces rozwoju produktu?": "Formalny plan zarządzania wiedzą istnieje i jest wdrażany, ale nie we wszystkich przypadkach.",
+            "W jakim stopniu firma korzysta z zasobów wiedzy pochodzących z poprzednich projektów?": "Firma rzadko korzysta z zasobów wiedzy z poprzednich projektów.",
+            "Jak zasady projektowania zdefiniowane przez firmę wspierają proces zarządzania wiedzą?": "Zasady projektowania zdefiniowane przez firmę są regularnie aktualizowane i wspierają proces KM.",
+            "Jak zasady projektowania zdefiniowane przez zewnętrzne podmioty (np. klientów dostawców) są uwzględniane w procesie KM?": "Zewnętrzne zasady projektowania są brane pod uwagę, ale nie we wszystkich projektach.",
+            "W jaki sposób firma aktualizuje formalne źródła wiedzy?": "Formalne źródła wiedzy są sporadycznie aktualizowane.",
+            "Jak zasady zarządzania wiedzą wspierają uwzględnianie końcowych kosztów produktu?": "Zarządzanie wiedzą nie uwzględnia końcowych kosztów produktu.",
+            "Jak zarządzanie wiedzą wpływa na proces oceny kosztów rozwoju i ROI?": "Zarządzanie wiedzą ma wpływ na ocenę kosztów rozwoju i ROI, ale nie zawsze jest to kluczowy czynnik.",
+            "W jaki sposób zarządzanie wiedzą wspiera uwzględnianie kosztów użytkowania i cyklu życia (np. konserwacja, recykling)?": "Koszty użytkowania i cyklu życia są w pełni uwzględniane w większości projektów.",
+            "Jak zarządzanie wiedzą wpływa na czas wprowadzenia produktu na rynek i termin dostawy?": "Czas wprowadzenia produktu na rynek jest regularnie uwzględniany i ma wpływ na decyzje KM.",
+            "Jak KM wspiera ocenę liczby różnych produktów w ofercie firmy?": "KM nie wspiera oceny liczby różnych produktów w ofercie.",
+            "W jakim stopniu KM uwzględnia poziom dostosowania produktu do potrzeb klientów?": "Poziom dostosowania produktu nie jest uwzględniany w procesie KM.",
+            "Jak zarządzanie wiedzą wspiera proces innowacyjności w firmie?": "KM wspiera innowacyjność w większości projektów, ale nie zawsze systematycznie.",
+            "Jakie zasady KM wspierają budowanie wizerunku marki?": "Wizerunek marki jest w pełni zintegrowany z procesem KM i ma kluczowy wpływ na decyzje.",
+            "Jak KM wspiera wydajność funkcjonalną produktów (np. produktywność, prędkość, dokładność)?": "Wydajność funkcjonalna produktów jest integralną częścią procesu KM i ma największy wpływ na decyzje.",
+            "W jaki sposób zarządzanie wiedzą wspiera monitorowanie wydajności jakościowej produktów (np. solidność, niezawodność)?": "Wydajność jakościowa jest priorytetem i jest w pełni monitorowana we wszystkich projektach.",
+            "Jak zarządzanie wiedzą wspiera zgodność z przepisami i normami prawnymi?": "Zarządzanie wiedzą wspiera zgodność z przepisami i normami prawnymi w większości projektów.",
+            "Jakie inne aspekty (np. zrównoważony rozwój, estetyka) są uwzględniane w procesie KM?": "Inne aspekty, takie jak zrównoważony rozwój, nie są uwzględniane w procesie KM."
+        },
+        "Techniki KM": {
+            "W jakim stopniu werbalna komunikacja z kolegami jest wykorzystywana do dzielenia się wiedzą?": "Werbalna komunikacja z kolegami rzadko jest wykorzystywana do dzielenia się wiedzą.",
+            "Jak często dokumenty z wnioskami wyciągniętymi z lekcji są tworzone i wykorzystywane?": "Dokumenty z wnioskami wyciągniętymi z lekcji nie są regularnie tworzone ani wykorzystywane.",
+            "Na ile specyfikacje projektowe są używane do udostępniania wiedzy?": "Specyfikacje projektowe są w pełni wykorzystywane do udostępniania wiedzy we wszystkich projektach.",
+            "Jak skutecznie kwestionariusze i listy kontrolne wspierają zarządzanie wiedzą?": "Kwestionariusze i listy kontrolne nie są skutecznie stosowane w zarządzaniu wiedzą.",
+            "W jakim stopniu pokoje do obrad, plakaty i zarządzanie wizualne są wykorzystywane do dzielenia się wiedzą?": "Pokoje do obrad, plakaty i zarządzanie wizualne są kluczowym elementem procesu dzielenia się wiedzą i są w pełni wykorzystywane.",
+            "Jak często wspólne foldery sieciowe są używane do przechowywania i udostępniania wiedzy?": "Wspólne foldery sieciowe są priorytetem w przechowywaniu i udostępnianiu wiedzy, regularnie aktualizowane i wykorzystywane.",
+            "Na ile intranet wspiera proces zarządzania wiedzą?": "Intranet nie jest regularnie wykorzystywany do wspierania zarządzania wiedzą.",
+            "Jak wykorzystywane są Wiki, blogi, fora i tablice ogłoszeń w zarządzaniu wiedzą?": "Wiki, blogi, fora i tablice ogłoszeń są skutecznie wykorzystywane do zarządzania wiedzą.",
+            "W jaki sposób systemy PDM/PLM wspierają zarządzanie wiedzą?": "Systemy PDM/PLM są skutecznie wykorzystywane w większości projektów, ale nie zawsze w pełnym zakresie.",
+            "Jakie korzyści wynikają z zastosowania oprogramowania KBE i automatyzacji projektowania w zarządzaniu wiedzą?": "Oprogramowanie KBE i automatyzacja projektowania są skutecznie wykorzystywane do zarządzania wiedzą w większości projektów.",
+            "Jak często i skutecznie wykorzystywane są techniki komputerowego wspomagania w zarządzaniu wiedzą?": "Techniki komputerowego wspomagania są stosowane, ale ich skuteczność jest ograniczona."
+        }
+    },
+    "Narzędzia": {
+        "Metody": {
+            "W jakim stopniu zasady modularyzacji i standaryzacji części są wykorzystywane w procesie projektowania?": "Zasady modularyzacji i standaryzacji części są stosowane sporadycznie.",
+            "Na ile projektowanie dla X (DFX) jest stosowane w zakresie wydajności funkcjonalnej?": "Projektowanie dla X (DFX) jest wykorzystywane, ale w ograniczonym zakresie w zakresie wydajności funkcjonalnej.",
+            "Jak projektowanie dla X (DFX) wspiera wydajność jakościową produktów?": "Projektowanie dla X (DFX) nie wspiera wydajności jakościowej produktów.",
+            "W jakim zakresie projektowanie dla X (DFX) uwzględnia inne czynniki odczuwalne przez klientów, takie jak estetyka czy ekoprojektowanie?": "Projektowanie dla X (DFX) uwzględnia inne czynniki, takie jak estetyka czy ekoprojektowanie w większości projektów.",
+            "Jak efektywnie stosowane jest projektowanie pod kątem kosztów (DTC) i zarządzanie kosztami docelowymi (TCM)?": "Projektowanie pod kątem kosztów (DTC) i zarządzanie kosztami docelowymi (TCM) nie jest stosowane.",
+            "Na ile analiza kosztów cyklu życia (LCC) i całkowity koszt posiadania (TCO) są uwzględniane w procesie projektowania?": "Analiza kosztów cyklu życia (LCC) i całkowity koszt posiadania (TCO) są regularnie uwzględniane, ale nie w pełnym zakresie.",
+            "Jak skutecznie przeprowadzana jest analiza cyklu życia i inżynieria (LCA&E)?": "Analiza cyklu życia i inżynieria (LCA&E) są przeprowadzane w większości projektów, ale nie zawsze.",
+            "Na ile analiza wartości i inżynieria (VA&E) wspierają proces projektowania?": "Analiza wartości i inżynieria (VA&E) są stosowane, ale ich wpływ jest ograniczony.",
+            "Jak skutecznie wdrażane są funkcje jakości (QFD) w procesie projektowania?": "Funkcje jakości (QFD) są regularnie wdrażane w każdym projekcie i wspierają cały proces rozwoju.",
+            "W jakim stopniu analiza ryzyka i awarii (FMEA/FMECA) wspiera proces rozwoju produktów?": "Analiza ryzyka i awarii (FMEA/FMECA) jest stosowana we wszystkich projektach i ma kluczowy wpływ na decyzje projektowe.",
+            "Na ile metody systematycznej innowacji, takie jak TRIZ, są stosowane w procesie projektowania?": "Metody systematycznej innowacji, takie jak TRIZ, są stosowane w większości projektów i wspierają innowacyjność."
+        },
+        "Komputerowe i oprogramowanie": {
+            "W jakim stopniu automatyzacja biura (arkusze kalkulacyjne, edytory tekstu) wspiera proces rozwoju produktu?": "Automatyzacja biura jest regularnie wykorzystywana do wspierania procesu rozwoju produktu, ale nie we wszystkich projektach.",
+            "Na ile systemy CAD 2D są stosowane w procesie projektowania?": "Systemy CAD 2D są stosowane w większości projektów, ale nie zawsze w pełnym zakresie.",
+            "Jakie korzyści przynoszą systemy CAD 3D w rozwoju produktów?": "Systemy CAD 3D są skutecznie wykorzystywane i wspierają rozwój produktów we wszystkich projektach.",
+            "W jakim zakresie cyfrowe modele (DMU) wspierają rozwój produktów?": "Cyfrowe modele (DMU) nie są stosowane w procesie rozwoju produktów.",
+            "Jakie jest zastosowanie komputerowego wspomagania stylizacji (CAS) w projektach?": "Komputerowe wspomaganie stylizacji (CAS) jest stosowane w większości projektów, ale nie zawsze w pełnym zakresie.",
+            "Na ile komputerowe wspomaganie inżynierii (CAE) wspiera proces projektowy?": "Komputerowe wspomaganie inżynierii (CAE) nie wspiera procesu projektowego.",
+            "W jaki sposób metoda analizy elementów skończonych (FEA/FEM) wpływa na jakość projektowania?": "Metoda analizy elementów skończonych (FEA/FEM) jest skutecznie stosowana we wszystkich projektach.",
+            "W jakim stopniu obliczeniowa dynamika płynów (CFD) jest stosowana w projektach?": "Obliczeniowa dynamika płynów (CFD) nie jest stosowana w projektach.",
+            "Jakie korzyści wynikają z zastosowania KBE i automatyzacji projektowania?": "KBE i automatyzacja projektowania są regularnie wykorzystywane, ale nie we wszystkich projektach.",
+            "Na ile komputerowe wspomaganie produkcji (CAM) jest używane w procesie wytwarzania?": "Komputerowe wspomaganie produkcji (CAM) nie jest wykorzystywane w procesie wytwarzania.",
+            "W jakim zakresie komputerowe planowanie procesów (CAPP) wspiera produkcję?": "Komputerowe planowanie procesów (CAPP) jest integralną częścią każdego procesu produkcji.",
+            "Jak często cyfrowa produkcja i fabryka są wykorzystywane w procesie rozwoju?": "Cyfrowa produkcja i fabryka są regularnie wykorzystywane, ale nie we wszystkich projektach.",
+            "Na ile symulacja zdarzeń dyskretnych (DES) wspiera planowanie i procesy produkcyjne?": "Symulacja zdarzeń dyskretnych (DES) jest priorytetem i w pełni wspiera wszystkie procesy produkcyjne.",
+            "Jakie zastosowanie ma rzeczywistość wirtualna (VR) i rozszerzona (AR) w rozwoju produktu?": "Rzeczywistość wirtualna (VR) i rozszerzona (AR) są wykorzystywane, ale nie we wszystkich projektach.",
+            "W jaki sposób systemy PDM/PLM wspierają zarządzanie danymi produktu?": "Systemy PDM/PLM są w pełni stosowane we wszystkich projektach i są kluczowym narzędziem zarządzania danymi produktu.",
+            "Jakie korzyści przynoszą systemy zarządzania dokumentami (DMS) w projektach?": "Systemy zarządzania dokumentami (DMS) są wykorzystywane, ale nie zawsze w pełnym zakresie.",
+            "Na ile system zarządzania przepływem pracy (WMS) wspiera zarządzanie projektami?": "System zarządzania przepływem pracy (WMS) jest skutecznie stosowany we wszystkich projektach.",
+            "W jakim stopniu planowanie zasobów przedsiębiorstwa (ERP) jest stosowane w procesach produkcyjnych?": "Planowanie zasobów przedsiębiorstwa (ERP) jest stosowane regularnie, ale nie we wszystkich projektach.",
+            "Jak zarządzanie łańcuchem dostaw (SCM) wspiera rozwój produktu?": "Zarządzanie łańcuchem dostaw (SCM) nie wspiera procesu rozwoju produktu.",
+            "W jakim zakresie systemy zarządzania relacjami z klientami (CRM) wpływają na rozwój produktu?": "Systemy zarządzania relacjami z klientami (CRM) są w pełni wykorzystywane we wszystkich projektach.",
+            "Jak systemy zarządzania relacjami z dostawcami (SRM) wspierają proces produkcji?": "Systemy zarządzania relacjami z dostawcami (SRM) nie wspierają procesu produkcji.",
+            "Na ile skomputeryzowany system zarządzania konserwacją (CMMS) jest stosowany w procesach produkcyjnych?": "Skomputeryzowany system zarządzania konserwacją (CMMS) jest stosowany regularnie, ale nie zawsze w pełnym zakresie."
+        }
+    }
+}

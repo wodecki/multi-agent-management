@@ -1,0 +1,20 @@
+# Ludzie
+## Role i współpraca
+E,A,E,E,A,C,C
+## Szkolenie
+D,D,E
+# Proces
+## Działania i przepływ
+B,C,E,E,C,A,C,D
+## Podejmowanie decyzji
+E,A,C,C,D,B,C,B,A,E,B,B,C,B,B,A,B,E,C,B,B,B
+# Zarządzanie wiedzą (KM)
+## Procesy KM
+E,C,E,C,E,C,A,D,C,B,A,B,D,D,A,A,C,E,E,E,D,A
+## Techniki KM
+A,A,D,A,E,E,A,D,C,D,B
+# Narzędzia
+## Metody
+B,B,A,D,A,C,C,B,D,E,D
+## Komputerowe i oprogramowanie
+C,C,D,A,C,A,D,A,C,A,E,C,E,B,E,B,D,C,A,D,A,C

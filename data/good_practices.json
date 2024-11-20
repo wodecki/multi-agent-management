@@ -1,0 +1,121 @@
+{
+    "Ludzie": {
+      "Role i współpraca": {
+        "Opis": "Dotyczy efektywnego podziału ról w zespole, który jest międzyfunkcyjny i globalnie rozproszony, a także pełnego zaangażowania wszystkich interesariuszy. Jasno określone role i obowiązki zwiększają elastyczność pracy. Ważnym elementem jest odpowiedzialność kierownika produktu z technicznym zapleczem oraz zaangażowanie klienta i doświadczonych projektantów od najwcześniejszych etapów projektów.",
+        "Najlepsze praktyki": {
+          "1": "Zespół międzyfunkcyjny",
+          "2": "Wszyscy interesariusze są zaangażowani w zespół projektowy, nawet gdy są rozproszeni globalnie",
+          "3": "Jasne określenie ról i obowiązków dla każdej osoby",
+          "4": "Wysoka elastyczność w wykonywaniu zadań",
+          "5": "Istnieje ogólny odpowiedzialny kierownik produktu z technicznym zapleczem",
+          "6": "Pełne zaangażowanie klienta w rozwój",
+          "7": "Zaangażowanie doświadczonych projektantów od najwcześniejszych etapów projektów"
+        }
+      },
+      "Szkolenie": {
+        "Opis": "Skupia się na formalnych programach wspierających interdyscyplinarne rozwijanie umiejętności zespołów. Praktyki obejmują indywidualne korepetycje oraz monitorowanie wyników za pomocą KPI, co pozwala na ocenę skuteczności szkolenia i ciągłe doskonalenie umiejętności członków zespołu.",
+        "Najlepsze praktyki": {
+          "1": "Formalne programy wspierające rozwój umiejętności interdyscyplinarnych",
+          "2": "Indywidualne korepetycje",
+          "3": "KPI do oceny wyników szkolenia"
+        }
+      }
+    },
+    "Proces": {
+      "Działania i przepływ": {
+        "Opis": "Dotyczy przestrzegania formalnych modeli rozwoju produktu, które są dokumentowane przez wszystkich zaangażowanych aktorów. Ważnym elementem jest współpraca, złożone KPI do pomiaru efektywności, frontloading procesu, ciągłe doskonalenie oraz systematyczne odrzucanie słabszych rozwiązań na rzecz nowych, lepszych informacji. Pełne skupienie na wartości dla klienta.",
+        "Najlepsze praktyki": {
+          "1": "Formalny model rozwoju produktu, właściwie przestrzegany i dokumentowany przez zaangażowanych aktorów",
+          "2": "Silnie współpracujący proces rozwoju",
+          "3": "Złożony zestaw KPI do pomiaru wydajności rozwoju produktu",
+          "4": "Frontloading procesu rozwoju produktu",
+          "5": "Inicjatywy ciągłego doskonalenia",
+          "6": "Wiele rozwiązań jest projektowanych i gorsze rozwiązania są stopniowo odrzucane w miarę pojawiania się nowych informacji",
+          "7": "Pełne skupienie na wartości dla klienta",
+          "8": "Sformalizowany proces analizy konkurencji (inżynieria odwrotna – reverse engineering)"
+        }
+      },
+      "Podejmowanie decyzji": {
+        "Opis": "Praktyki związane z podejmowaniem decyzji opierają się na perspektywie cyklu życia produktu, od projektowania po utylizację. Uwzględniane są czynniki strategiczne, takie jak koszty, ROI, innowacyjność, wizerunek marki, wydajność funkcjonalna i jakościowa, zgodność z przepisami oraz inne parametry, które mają wpływ na sukces produktu w oczach klienta.",
+        "Najlepsze praktyki": {
+          "1": "Wizja z perspektywy cyklu życia",
+          "2": "Uwzględnienie wszystkich faz życia produktu podczas jego rozwoju (dziesięć faz)",
+          "3": "Opieranie procesu podejmowania decyzji na czynnikach strategicznych (12 czynników)"
+        }
+      }
+    },
+    "Zarządzanie wiedzą (KM)": {
+      "Procesy KM": {
+        "Opis": "Skupiają się na formalnym planie zarządzania wiedzą (KM), obejmującym pięć etapów rozwoju produktu. Wiedza pochodzi z formalnych źródeł (zasady projektowania, podręczniki, standardy) i jest stale aktualizowana.",
+        "Najlepsze praktyki": {
+          "1": "Poprzednia wiedza jest odzyskiwana na różnych etapach rozwoju produktu",
+          "2": "Formalny ogólny plan KM",
+          "3": "Główne źródło wiedzy pochodzi ze środków formalnych"
+        }
+      },
+      "Techniki KM": {
+        "Opis": "Obejmują formalne narzędzia i techniki do przechwytywania, udostępniania i ponownego wykorzystywania wiedzy.",
+        "Najlepsze praktyki": {
+          "1": "Werbalna komunikacja z kolegami",
+          "2": "Dokumenty z wnioskami wyciągniętymi z lekcji",
+          "3": "Specyfikacje projektów",
+          "4": "Kwestionariusze/listy kontrolne",
+          "5": "Pokoje do obrad, plakaty i zarządzanie wizualne",
+          "6": "Wspólne foldery sieciowe",
+          "7": "Intranet",
+          "8": "Wiki",
+          "9": "Blogi, fora, tablice ogłoszeń",
+          "10": "Systemy PDM/PLM",
+          "11": "Oprogramowanie KBE i automatyzacja projektowania"
+        }
+      }
+    },
+    "Narzędzia": {
+      "Metody": {
+        "Opis": "Praktyki obejmują formalne metody inżynierskie, takie jak zasady modularyzacji, projektowanie dla X (DFX), analiza wartości, funkcje jakości, analiza ryzyka (FMEA) oraz inne metody wspierające efektywne zarządzanie procesami inżynierskimi.",
+        "Najlepsze praktyki": {
+          "1": "Zasady modularyzacji i standaryzacji części",
+          "2": "Projektowanie dla X (DFX) dla wydajności funkcjonalnej",
+          "3": "Projektowanie dla X (DFX) dla wydajności jakościowej",
+          "4": "Projektowanie dla innych wydajności odczuwalnych przez klienta",
+          "5": "Projektowanie pod kątem kosztów (DTC)/zarządzanie kosztami docelowymi (TCM)",
+          "6": "Analiza kosztów cyklu życia (LCC)/całkowity koszt posiadania (TCO)",
+          "7": "Analiza wartości i inżynieria (VA&E)",
+          "8": "Funkcje jakości (QFD)",
+          "9": "Analiza ryzyka i awarii (FMEA)",
+          "10": "Metody systematycznej innowacji (np. TRIZ)"
+        }
+      },
+      "Komputerowe i oprogramowanie": {
+        "Opis": "Rozwój produktu wspierany przez platformy i oprogramowanie, w tym CAD, CAM, PDM/PLM, ERP, CRM, SCM, symulacje, AR/VR oraz zautomatyzowane systemy zarządzania.",
+        "Najlepsze praktyki": {
+          "1": "Rozwój produktu jest silnie wspierany przez platformy programowe (23 programy): sutomatyzacja biura (arkusze kalkulacyjne, edytory tekstu itp.)",
+          "2": "CAD 2D",
+          "3": "CAD 3D",
+          "4": "Cyfrowe modele (DMU)",
+          "5": "Komputerowe wspomaganie stylizacji (CAS)",
+          "6": "Komputerowe wspomaganie inżynierii (CAE)",
+          "7": "Obliczeniowa dynamika płynów (CFD)",
+          "8": "KBE i automatyzacja projektowania",
+          "9": "Komputerowe wspomaganie produkcji (CAM)",
+          "10": "Komputerowe planowanie procesów (CAPP)/cyfrowa produkcja i fabryka",
+          "11": "Symulacja zdarzeń dyskretnych (DES",
+          "12": "Rzeczywistość wirtualna/rozszerzona (V/AR)",
+          "13": "Zarządzanie danymi produktu (PDM/PLM)",
+          "14": "Systemy zarządzania dokumentami (DMS)",
+          "15": "System zarządzania przepływem pracy (WMS)",
+          "16": "Planowanie zasobów przedsiębiorstwa (ERP)",
+          "17": "Zarządzanie łańcuchem dostaw (SCM)",
+          "18": "Zarządzanie relacjami z klientami (CRM)",
+          "19": "Zarządzanie relacjami z dostawcami (SRM)",
+          "20": "Skomputeryzowany system zarządzania konserwacją (CMMS)",
+          "21": "Oprogramowanie do analizy cyklu życia (LCA)",
+          "22": "Oprogramowanie do zarządzania projektami",
+          "23": "Wirtualna rzeczywistość (VR)"}
+        }
+    }
+}
+
+
+
+
