@@ -32,7 +32,7 @@ Follow the steps below to set up the project and run the application.
 
 ```bash
 git clone https://github.com/wodecki/multi-agent-management.git
-cd managerial-problem-solver
+cd multi-agent-management
 ```
 
 #### 2. Create and Activate a Virtual Environment
