@@ -31,7 +31,7 @@ Follow the steps below to set up the project and run the application.
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/managerial-problem-solver.git
+git clone https://github.com/wodecki/multi-agent-management.git
 cd managerial-problem-solver
 ```
 
