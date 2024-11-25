@@ -12,6 +12,7 @@ openai_api_key = os.getenv('OPENAI_API_KEY')
 # Import the application
 from graph.graph import app
 
+
 def main():
     # Check if a CLI parameter (question) is provided
     if len(sys.argv) > 1:
@@ -26,6 +27,7 @@ def main():
     # Print the report
     print("\n=====REPORT=====")
     print(response["report"])
+
 
 if __name__ == "__main__":
     main()

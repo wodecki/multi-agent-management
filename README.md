@@ -80,6 +80,17 @@ OPENAI_API_KEY=your_openai_api_key
 
 Replace `your_openai_api_key` with your actual OpenAI API key.
 
+
+You can use **LangSmth** to monitor your Agent 
+
+```env
+LANGCHAIN_TRACING_V2="true"
+LANGCHAIN_API_KEY="your_langsmth_key"
+LANGCHAIN_PROJECT="PJATK STORM multiagent arhitecture"
+```
+
+Replace `your_langsmth_key` with your actual LangSmth API key.
+
 ---
 
 ### Development
